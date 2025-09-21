@@ -1,0 +1,7 @@
+requests
+dotenv
+langchain-openai
+azure-identity
+beautifulsoup4
+selenium
+streamlit
